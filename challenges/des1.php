@@ -9,8 +9,9 @@
     <section>
     <form action="backDes1.php" method="get">
         <label for="num">Numero</label>
-        <input type="text" name="num">
+        <input type="number" name="num">
         <input type="submit" value="Enviar">
     </form>        
     </section>
+
 </html>
